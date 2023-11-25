@@ -1,5 +1,5 @@
 # placemate
-•	This project is to facilitate students in college, company to register and communicate with placement office.The users(students)can access easily to thi sand the data can be retrieved easily in no time.
+•	This project is to facilitate students in college, company to register and communicate with placement office.The users(students)can access easily to and send the data can be retrieved easily in no time.
 
 •	In the main page there are options for a new register, a registered student to directlyloginusing usernameand password,submitresume.
 
